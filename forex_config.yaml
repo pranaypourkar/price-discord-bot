@@ -1,0 +1,11 @@
+GBP/HKD:
+    decimalPlace: 2
+    updateFreq: 3600
+    discordBotKey: OTU0ODMyMzUzMTk5NTU0NTgw.YjY27A.XqNABhu8k3v18ouBTO5tRSdW66M
+    guildId: 954832353199554580
+
+USD/HKD:
+    decimalPlace: 3
+    updateFreq: 3600
+    discordBotKey: OTU0ODMyMzUzMTk5NTU0NTgw.YjY27A.XqNABhu8k3v18ouBTO5tRSdW66M
+    guildId: 954832353199554580
