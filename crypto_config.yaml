@@ -4,8 +4,8 @@ SOL:
     decimalPlace:
         - 2
     updateFreq: 10
-    discordBotKey: OTU0ODMyMzUzMTk5NTU0NTgw.YjY27A.XqNABhu8k3v18ouBTO5tRSdW66M
-    guildId: 946496850104565890
+    discordBotKey: <Add discord Bot Key>
+    guildId: <Add discord server id>
 
 BTC:
     priceUnit:
@@ -13,8 +13,8 @@ BTC:
     decimalPlace:
         - 0
     updateFreq: 60
-    discordBotKey: OTU0ODMyMzUzMTk5NTU0NTgw.YjY27A.XqNABhu8k3v18ouBTO5tRSdW66M
-    guildId: 946496850104565890
+    discordBotKey: <Add discord Bot Key>
+    guildId: <Add discord server id>
 
 ETH:
     priceUnit:
@@ -24,8 +24,8 @@ ETH:
         - 2
         - 5
     updateFreq: 60
-    discordBotKey: OTU0ODMyMzUzMTk5NTU0NTgw.YjY27A.XqNABhu8k3v18ouBTO5tRSdW66M
-    guildId: 946496850104565890
+    discordBotKey: <Add discord Bot Key>
+    guildId: <Add discord server id>
 
 YFI:
     priceUnit:
@@ -35,6 +35,6 @@ YFI:
         - 0
         - 2
     updateFreq: 120
-    discordBotKey: OTU0ODMyMzUzMTk5NTU0NTgw.YjY27A.XqNABhu8k3v18ouBTO5tRSdW66M
-    guildId: 946496850104565890
+    discordBotKey: <Add discord Bot Key>
+    guildId: <Add discord server id>
 
