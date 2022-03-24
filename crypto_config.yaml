@@ -6,6 +6,15 @@ SOL:
     updateFreq: 10
     discordBotKey: OTQ2NDkxNzg5ODU3MTU3MTMw.YhffKw.3zQx1oJ7Nw0fiLIDooO1GsTdbUMaa
     guildId: 946496850104565890
+    
+PUFF:
+    priceUnit:
+        - USD
+    decimalPlace:
+        - 2
+    updateFreq: 10
+    discordBotKey: OTU2NjE5Mjg5ODk5Njk2MTU5.Yjy3Iw.Sl6DeJS0Ert7usGCVOcqoaiFsNYaa
+    guildId: 946496850104565890
 
 BTC:
     priceUnit:
