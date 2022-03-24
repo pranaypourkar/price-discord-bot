@@ -4,8 +4,8 @@ SOL:
     decimalPlace:
         - 2
     updateFreq: 10
-    discordBotKey: <Add discord Bot Key>
-    guildId: <Add discord server id>
+    discordBotKey: OTQ2NDkxNzg5ODU3MTU3MTMw.YhffKw.3zQx1oJ7Nw0fiLIDooO1GsTdbUMaa
+    guildId: 946496850104565890
 
 BTC:
     priceUnit:
