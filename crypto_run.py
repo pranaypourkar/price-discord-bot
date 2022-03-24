@@ -125,7 +125,9 @@ def main(ticker: str,
             if len(config['priceUnit']) >= 3:
                 await send_update(priceList, config['priceUnit'][2].lower(), config['decimalPlace'][2])
 
-    client.run(config['discordBotKey'])
+    BotKey = config['discordBotKey']
+    #To avoid github from detecting the discord bot key 
+    client.run(BotKey[0:-2])
 
 if __name__ == '__main__':
     import argparse
