@@ -1,7 +1,4 @@
-# discord-sidebar-price-bot
-Inspired by [pipercucu/DiscordSidebarPriceBot](https://github.com/pipercucu/DiscordSidebarPriceBot),
-these Python scripts can run Discord bots that pull live data at intervals and display it on the sidebar of a Discord guild (i.e. server).
-It currently supports:
+# discord-price-bot
 
 - **Cryptocurrency price** data (in USD, BTC, and/or ETH) from Coingecko API
 - **Gas price** of the Ethereum blockchain (in gwei) from Etherscan API
@@ -65,3 +62,7 @@ python cfgi_run.py
 
 ## Deploy
 Once you are familiar with running a single sidebar bot, you can run multiple bots concurrently by calling `./bot.sh` and kill all bots by calling `./kill.sh`. You might want to modify the commands in `./bot.sh` to suit your own needs.
+
+
+
+
