@@ -116,7 +116,7 @@ def main(ticker: str,
         while True:
             # 5. Fetch price
             priceList = get_price(id_, config['priceUnit'], verbose)
-            print(priceList)
+            #print(priceList)
             # 6. Feed it to the bot
             # max. 3 priceUnit (tried to avoid using for loop)
             await send_update(priceList, config['priceUnit'][0].lower(), config['decimalPlace'][0])
